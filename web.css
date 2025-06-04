@@ -1,0 +1,38 @@
+#navbar{
+    background-color: #0f1111;
+    height: 50px;
+}
+#logo{
+    color: chocolate;
+    font-size: 20px;
+    margin-right: 100px;
+}
+a{
+    color: white;
+    margin-right: 100px;
+}
+button{
+    background-color: chocolate;
+    transition: all 0.5s 2ms;
+
+}
+button:hover{
+    background-color: aqua;
+}
+button:active{
+    background-color: burlywood;
+}
+#logoimg{
+    position: relative;
+    justify-content: center;
+}
+#first{
+    font-size: 15px;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+footer{
+    color: white;
+    background-color: #0f1111;
+    text-align: center;
+}
