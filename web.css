@@ -31,6 +31,10 @@ button:active{
     text-align: center;
     background-color: blanchedalmond;
 }
+#second{
+    text-align: center;
+    font-size: 15px;
+}
 footer{
     color: white;
     background-color: #0f1111;
